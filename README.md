@@ -6,6 +6,10 @@ SEA BATTLE- PART1
 SEA BATTLE - PART2
 ![image](https://user-images.githubusercontent.com/117738625/225082915-07f22af0-7635-44ce-b07b-2eaf4aca29d5.png)
 
+SEA BATTLE - PART3
+![image](https://user-images.githubusercontent.com/117738625/225112461-6b3f323e-1b58-44f4-b262-91cffb4ad2ea.png)
+
+
 
 
 
