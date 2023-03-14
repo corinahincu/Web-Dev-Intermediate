@@ -49,6 +49,7 @@ body{
 .sea .wave {
   height: 100px;
   background-color: var(--wave-color);
+  transform: translateY(100px);
 }
 
 .sea .wave::before {
