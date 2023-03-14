@@ -202,10 +202,6 @@ body{
 
 }
 
-/* .ship.reverse .base {
-  border-bottom-left-radius: 80px;
-  border-bottom-right-radius: 0px
-} */
 
 .sea .ship .base .base-top{
   position: absolute;
